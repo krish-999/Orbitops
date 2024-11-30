@@ -50,3 +50,4 @@ The **Yellowstone fires of 1988** were a significant event in the park's history
 ## Public Data Sources
 - **Landsat**: Multi-temporal satellite imagery to assess pre- and post-fire conditions.
 - **USGS Earth Explorer**: Platform for accessing historical satellite data.
+- **ESPA (Earth Science Processing Architecture)**: Provides processed Landsat and other satellite data, enabling efficient access to ready-to-use geospatial data for analysis.
