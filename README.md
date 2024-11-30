@@ -21,7 +21,6 @@ The Yellowstone fires of 1988 were a significant event in the park's history, bu
 
 * **Franck Kasongo** 
 * **Krishna vamsi Regulavalasa** 
-* **Philippa Burgess** 
 * **Shourya Bhardwaj** 
 
 **Project Workflow**
